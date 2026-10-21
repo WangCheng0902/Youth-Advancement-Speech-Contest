@@ -1,0 +1,14 @@
+# Generated drafts, rendering previews, and local working files
+/.build/
+/tmp/
+node_modules/
+__pycache__/
+*.pyc
+
+# Office lock files and operating-system caches
+~$*
+*.tmp
+*.temp
+Thumbs.db
+Desktop.ini
+.DS_Store
